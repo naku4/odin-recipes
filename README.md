@@ -1,1 +1,1 @@
-# odin-recipes
+In this project I will use all the skills I have aquired so far when it comes to coding with HTML. This project is a recipe book.# odin-recipes
