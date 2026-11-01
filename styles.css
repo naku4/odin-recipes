@@ -1,0 +1,45 @@
+@font-face {
+  font-family: 'Lora Italic';
+  src: url('fonts/Lora-Italic-VariableFont_wght.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'PT Serif';
+  src: url('fonts/PTSerif-Regular.ttf') format('truetype');
+}
+
+.title-border {
+  box-sizing: border-box;
+  display: block;
+  width: 320px;
+  padding: 24px 36px;
+  border: dotted rgb(194, 195, 168);
+  text-align: center;
+}
+
+.title {
+  font-family: 'Lora Italic', serif;
+  margin: auto;
+  color: rgb(205, 125, 60);
+}
+
+.sub-title {
+  font-weight: 700;
+}
+
+.sub-title,
+.body-text {
+  font-family: 'PT Serif', serif;
+  color: rgb(130, 113, 61);
+}
+
+.image {
+  box-sizing: border-box;
+  width: 320px;
+  margin: 24px 0px;
+}
+
+.link {
+  font-family: 'PT Serif', serif;
+  color: rgb(189, 151, 116)
+}
