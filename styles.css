@@ -11,10 +11,19 @@
 .title-border {
   box-sizing: border-box;
   display: block;
-  width: 320px;
+  width: 400px;
   padding: 24px 36px;
   border: dotted rgb(194, 195, 168);
   text-align: center;
+}
+
+.title-line {
+  display: inline-block;
+  box-sizing: border-box;
+  width: 400px;
+  border-left: 3px solid rgb(205, 125, 60);
+  margin: 8px;
+  padding: 0 0 0 12px;
 }
 
 .title {
@@ -35,7 +44,7 @@
 
 .image {
   box-sizing: border-box;
-  width: 320px;
+  width: 400px;
   margin: 24px 0px;
 }
 
